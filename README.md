@@ -1,3 +1,3 @@
 # blog-app-frontend
 
-- npm run start
+- npm run start or yarn start
